@@ -1,0 +1,12 @@
+{
+  "id": "FoolsDisplay",
+  "name": "FoolsDisplay",
+  "author": ["Dee9c"],
+  "description": "Shows what's inside the fool.",
+  "dependencies": [
+   "Steamodded (>=1.*~)"
+  ],
+  "prefix": "FoolsDisplay",
+  "main_file": "main.lua",
+  "version": "0.1.0"
+}
