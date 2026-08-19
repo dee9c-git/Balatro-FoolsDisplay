@@ -10,7 +10,6 @@ Heavily inspired by [WhatsInMyFool](https://github.com/colonthreeing/WhatsInMyFo
 
 ## Features
 - Fool gets a custom look for every planet/tarot card it could turn into.
-- Allows you to know that it's a fool + what it's turning into.
 - Made for Vanilla Balatro
 
 <div align="center">
