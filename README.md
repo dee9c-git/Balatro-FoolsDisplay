@@ -14,7 +14,7 @@ Heavily inspired by [WhatsInMyFool](https://github.com/colonthreeing/WhatsInMyFo
 - Made for Vanilla Balatro
 
 <div align="center">
-<img alt="showcase" height="300" src="/assets/x2/fools_display.jpg" />
+<img alt="showcase" height="300" src="/assets/x2/fools_display.png" />
 </div>
 
 ## Install
