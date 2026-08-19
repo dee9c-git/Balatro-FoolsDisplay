@@ -5,11 +5,17 @@
 <img alt="thumbnail" height="300" src="/assets/thumbnail.jpg" />
 </div>
 
+## Cool People
 Heavily inspired by [WhatsInMyFool](https://github.com/colonthreeing/WhatsInMyFool) and [Blueprint](https://github.com/stupxd/Blueprint)!
 
 ## Features
-- Custom look for every planet/tarot card.
+- Fool gets a custom look for every planet/tarot card it could turn into.
+- Allows you to know that it's a fool + what it's turning into.
 - Made for Vanilla Balatro
+
+<div align="center">
+<img alt="showcase" height="300" src="/assets/x2/fools_display.jpg" />
+</div>
 
 ## Install
 1. Install the [Balatro Mod Manager](https://github.com/skyline69/balatro-mod-manager)
