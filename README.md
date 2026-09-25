@@ -13,7 +13,7 @@ Heavily inspired by [WhatsInMyFool](https://github.com/colonthreeing/WhatsInMyFo
 - Vanilla + Modded Balatro should both work!
 
 ## Install with Mod Manager
-1. Install a mod manager: [imm](https://codeberg.org/frostice482/balatro-imm)/[balatui](https://github.com/dee9c-git/balatui)/[BMM](https://github.com/skyline69/balatro-mod-manager) etc.
+1. Install a mod manager: [imm](https://codeberg.org/frostice482/balatro-imm) / [balatui](https://github.com/dee9c-git/balatui) / [BMM](https://github.com/skyline69/balatro-mod-manager) etc.
 2. Install Steamodded using the mod manager.
 3. Search for "FoolsDisplay" in the mod manager and install the mod!
 
