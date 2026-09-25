@@ -1,9 +1,3 @@
-SMODS.Atlas {
-    key = 'c_fool',
-    px = G.ASSET_ATLAS['Tarot'].px,
-    py = G.ASSET_ATLAS['Tarot'].py,
-    path = 'fools_display.png',
-}
 SMODS.Shader {
     key = 'fools',
     path = 'fools.fs',
