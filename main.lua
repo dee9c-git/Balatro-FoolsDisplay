@@ -8,7 +8,9 @@ SMODS.DrawStep {
     func = function(card, _)
         if card.ability.name == "The Fool" then
             if G.GAME.last_tarot_planet ~= nil then
-                card.children.center.atlas = G.ASSET_ATLAS[G.P_CENTERS[G.GAME.last_tarot_planet].atlas]
+                if G.P_CENTERS[G.GAME.last_tarot_planet].atlas ~= nil then
+                    card.children.center.atlas = G.ASSET_ATLAS[G.P_CENTERS[G.GAME.last_tarot_planet].atlas]
+                end
                 card.children.center.sprite_pos = G.P_CENTERS[G.GAME.last_tarot_planet].pos
             end
 
